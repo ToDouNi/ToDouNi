@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @土豆
+- 梦想做一个精通Vue,React,Java,PHP,Go,JS等单词的拼写
